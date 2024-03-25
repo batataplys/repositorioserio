@@ -4,7 +4,7 @@
 }
     
 body {
-    background: #CCCCCC
+    background-color: #CCCCCC
 }
 
 h1 {
@@ -13,8 +13,9 @@ h1 {
 
 p {
     text-align: center;
+    font-size: 20px
 }
-
+missao{
 em strong {
     color: #FF0000;
 }
